@@ -5,7 +5,7 @@ import java.io.Serializable;
 public class Account implements Serializable{
 
 	/**
-	 * 
+	 * 这是第二个版本
 	 */
 	private static final long serialVersionUID = 1L;
 	
